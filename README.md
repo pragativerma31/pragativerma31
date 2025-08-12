@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="cover_img"/>
+</p>
+
 <!-- Profile Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
@@ -12,51 +16,30 @@
   </a>
 </p>
 
----
 
-## 🎓 Education
-📌 **B.Tech in Computer Science & Engineering** — *Netaji Subhas University of Technology*  *(2023 – 2027)* 
 
-📌 **Class XII (CBSE)** — *Kamal Model Sr. Sec. School*  *(2022)*
+## 🚀 About Me
 
-📌 **Class X (CBSE)** — *Kamal Model Sr. Sec. School*  *(2020)*
+<img align="right" alt="coding" width="300" height="200" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
----
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="25px"> I'm a **Full Stack Developer** passionate about building impactful web applications and exploring cutting-edge technologies.
 
-## 🏆 Achievements
-- ✅ Cleared **2 internal rounds** for **Smart India Hackathon (SIH) 2024**.
-- ✅ Cleared **2 rounds** for **MHTechin Hackathon 2024**.
-- 🏅 Volunteered at **Nanhi Kashtiyan**, teaching underprivileged children.
-- 📜 Completed **Machine Learning by Andrew Ng (Stanford) — Coursera**.
+- 🌱 Currently learning **MERN Stack**, **FastAPI**, and **AI Integrations**
+- 👯 Looking to collaborate on **Open Source Projects** and **Hackathons**
+- 💬 Ask me about **Web Development**, **Competitive Programming (DSA/CP)**, or **Machine Learning**
+- 🎯 Goal: Build scalable apps & contribute more to **Open Source**
+- 💼 Portfolio: *(Coming Soon!)*
+- 📫 Reach me at: [verma.pragati3104@gmail.com](mailto:verma.pragati3104@gmail.com)
+- 😄 Pronouns: She/Her
 
----
 
-## 🚀 Projects
-
-### ♻️ SUDHAAR — *React | Firebase | TypeScript | ML*
-- Waste management platform with **AI image classification** & gamified rewards.
-- Reduced unmanaged waste by **25–30%** & increased scrap dealer jobs by **20–35%**.
-
-### 💰 Real BT — *React | Express.js | MongoDB*
-- Loan processing platform with **secure role-based access**.
-- Reduced processing time by **40%**; boosted leads 2–3×.
-
-### 📚 Portal Pal — *FastAPI | Next.js | PostgreSQL*
-- Automated NSUT academic portal for **attendance, CGPA, admit cards**.
-- Deep learning CAPTCHA solver; reduced lookup time by **3–5 min/session**.
-
-### 🔍 Captcha-To-Text Converter — *CNN | Selenium | Tkinter*
-- Achieved **98% accuracy** in solving CAPTCHAs.
-- Automated dataset creation & GUI for manual labeling.
-
----
 
 ## 🧑‍💻 Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,react,nextjs,nodejs,express,firebase,mongodb,postgresql,git" />
 </p>
 
----
+
 
 ## 🖥 Coding Profiles
 <p align="center">
@@ -73,21 +56,24 @@
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragativerma31&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pragativerma31&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragativerma31&theme=radical" height="165" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pragativerma31&theme=react-dark" />
 </p>
 
----
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pragativerma31&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
----
+
 
 ## 📫 Connect with Me
 <p align="center">
